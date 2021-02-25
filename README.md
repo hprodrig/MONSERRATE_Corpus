@@ -8,7 +8,7 @@ Despite the growing interest in Question Generation, evaluating these systems re
 
 ## Dataset
 
-In [corpus](https://github.com/hprodrig/MONSERRATE-Corpus/tree/main/corpus) you can find the full dataset, brokedown in the following files:
+In [corpus](https://github.com/hprodrig/MONSERRATE_Corpus/tree/main/corpus) you can find the full dataset, brokedown in the following files:
 
 * Source sentences (73);
 * Full reference (over 1900 questions);
