@@ -25,16 +25,16 @@ The estate of Monserrate was rented by Gerard de Visme (1789), a wealthy English
 
 We benchmarked three available state of the art systems, each with a different approach to the problem of QG:
 
-* H&S: Heilman and Smith (XX);
-* D&A: Du et al (XX);
-* GEN: Rodrigues (XX).
+* H&S: Heilman, M. and Smith, N. (2010);
+* D&A: Du, X. et al (2017);
+* GEN: Rodrigues, H. et al (2018).
 
 
 System | ROUGE | METEOR | BLEU1 | BLEU4 | EACS | GMS | STCS | VECS
 :------ | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----:
 H&S | **69.00** | 46.38 | 83.71 | **45.56** | 92.51 | **86.11** | 73.26 | 77.92
 D&A | 63.71  | 37.58  | 77.40 | 26.63 | **92.52** | 85.51 |  74.47 | 77.54
-GEN Args | 65.81 | **46.44** | 81.80 | 40.61 | 92.25 | 85.86 | 71.17 | **80.89**
+GEN (args) | 65.81 | **46.44** | 81.80 | 40.61 | 92.25 | 85.86 | 71.17 | **80.89**
 
 
 Contact us with your results to appear on the table!
@@ -47,10 +47,6 @@ We used [Maluba Project](https://github.com/Maluuba/nlg-eval) in our experiments
 
 TBD
 
-## ACKNOWLEDGEMENTS
-
-TBD
-
 ## CONTACT INFORMATION
 
-TBD
+Hugo Rodrigues: hugo `.` p `.` rodrigues `@` tecnico.ulisboa.pt
