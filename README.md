@@ -8,11 +8,11 @@ Despite the growing interest in Question Generation, evaluating these systems re
 
 ## Dataset
 
-In [corpus](https://github.com/hprodrig/MONSERRATE_Corpus/tree/main/corpus) you can find the full dataset, brokedown in the following files:
+In [corpus](corpus) you can find the full dataset, brokedown in the following files:
 
-* Source sentences (73);
-* Full reference (over 1900 questions);
-* Reference sentences and questions aligned in separate files.
+* Source sentences (73): sourceSentences.txt;
+* Full reference (over 1900 questions): fullReference.txt;
+* Reference sentences and questions aligned in separate files: referenceSentences.txt, referenceQuestions.txt.
 
 ## Benchmark
 
@@ -24,7 +24,7 @@ We benchmarked three available state of the art systems, each with a different a
 
 
 System | ROUGE | METEOR | BLEU1 | BLEU4 | EACS | GMS | STCS | VECS
------- | ----- | ------ | ----- | ----- | ---- | --- | ---- | ----
+:------ | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----:
 H&S | **69.00** | 46.38 | 83.71 | **45.56** | 92.51 | **86.11** | 73.26 | 77.92
 D&A | 63.71  | 37.58  | 77.40 | 26.63 | **92.52** | 85.51 |  74.47 | 77.54
 GEN Args | 65.81 | **46.44** | 81.80 | 40.61 | 92.25 | 85.86 | 71.17 | **80.89**
@@ -32,6 +32,18 @@ GEN Args | 65.81 | **46.44** | 81.80 | 40.61 | 92.25 | 85.86 | 71.17 | **80.89**
 
 Contact us with your results to appear on the table!
 
-## Evaluating my QG system
+## Usage
 
-We used [Maluba Project](https://github.com/Maluuba/nlg-eval) in our experiments. You can find a _script(TBD)_ to automatically evaluate your system output on **MONSERRATE**.
+We used [Maluba Project](https://github.com/Maluuba/nlg-eval) in our experiments. You can find a _script(TBD)_ to automatically evaluate your system output on **MONSERRATE**. But the dataset is also publicly available to be used as you see fit.
+
+## Citation
+
+TBD
+
+## ACKNOWLEDGEMENTS
+
+TBD
+
+## CONTACT INFORMATION
+
+TBD
