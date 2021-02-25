@@ -14,6 +14,13 @@ In [corpus](corpus) you can find the full dataset, brokedown in the following fi
 * Full reference (over 1900 questions): fullReference.txt;
 * Reference sentences and questions aligned in separate files: referenceSentences.txt, referenceQuestions.txt.
 
+Examples:
+
+Sentence | Questions
+----- | -----
+When you buy the ticket, you will receive a map which allows you to go around easily by yourself. | How can I get a map? <br /> How can I get a map of the palace? <br /> What does one receive upon buying the ticket? <br /> What will you receive when you buy a ticket? <br /> Why is a map useful?
+The estate of Monserrate was rented by Gerard de Visme (1789), a wealthy English merchant, who built a house there in the neo-Gothic style. | Who was Gerard de Visme? <br /> What did Gerard de Visme build? <br /> What was Gerard de Visme's profession? <br /> What was Gerard de Visme's nationality? <br /> Was the estate of Monserrate ever rented? <br /> What style was Gerard de Visme's house? <br /> When did Gerard de Visme rent the estate?
+
 ## Benchmark
 
 We benchmarked three available state of the art systems, each with a different approach to the problem of QG:
