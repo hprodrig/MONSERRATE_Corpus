@@ -12,7 +12,7 @@ In [corpus](https://github.com/hprodrig/MONSERRATE_Corpus/tree/main/corpus) you 
 
 * Source sentences (73);
 * Full reference (over 1900 questions);
-* Reference sentences and questions aligned in seperate files.
+* Reference sentences and questions aligned in separate files.
 
 ## Benchmark
 
