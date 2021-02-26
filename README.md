@@ -41,7 +41,7 @@ Contact us with your results to appear on the table!
 
 ## Usage
 
-We used [Maluba Project](https://github.com/Maluuba/nlg-eval) in our experiments. You can find a _script(TBD)_ to automatically evaluate your system output on **MONSERRATE**. But the dataset is also publicly available to be used as you see fit.
+We used [Maluba Project](https://github.com/Maluuba/nlg-eval) in our experiments. You can find a [scripts](script) (requires Maluba instalation) to automatically evaluate your system output on **MONSERRATE**. But the dataset is also publicly available to be used as you see fit.
 
 ## Citation
 
@@ -49,4 +49,4 @@ TBD
 
 ## CONTACT INFORMATION
 
-Hugo Rodrigues: hugo `.` p `.` rodrigues `@` tecnico.ulisboa.pt
+Hugo Rodrigues: hugo`.`p`.`rodrigues`@`tecnico.ulisboa.pt
