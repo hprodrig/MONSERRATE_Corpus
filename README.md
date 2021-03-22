@@ -50,6 +50,6 @@ TBD
 ## Acknowledgements
 Hugo Rodrigues was supported by the Carnegie Mellon-Portugal program (SFRH/ BD/51916/2012). This work was also supported by national funds through Fundação para a Ciência e Tecnologia (FCT) with reference UIDB/50021/2020.
 
-## CONTACT INFORMATION
+## Contact Information
 
 Hugo Rodrigues: hugo`.`p`.`rodrigues`@`tecnico.ulisboa.pt
