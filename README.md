@@ -45,7 +45,7 @@ We used [Maluba Project](https://github.com/Maluuba/nlg-eval) in our experiments
 
 ## Citation
 
-TBD
+Hugo Rodrigues, Eric Nyberg, Luísa Coheur, *Towards the benchmarking of question generation: introducing the Monserrate corpus*, _Language Resources and Evaluation_, Springer, pages 1-19, doi: https://doi.org/10.1007/s10579-021-09545-5, June 2021
 
 ## Acknowledgements
 Hugo Rodrigues was supported by the Carnegie Mellon-Portugal program (SFRH/ BD/51916/2012). This work was also supported by national funds through Fundação para a Ciência e Tecnologia (FCT) with reference UIDB/50021/2020.
